@@ -1,2 +1,2 @@
 def introduce():
-    print("package2 tag1")
+    print("package2 tag2")
